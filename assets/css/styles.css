@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.construction {
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 50px;
+    color: #ff6347;
+}
+
+p {
+    font-size: 20px;
+}
+
+.game-container {
+    margin: 50px auto;
+    border: 3px solid #333;
+    width: 820px;
+    height: 620px;
+    background-color: #fff;
+}
+
+iframe {
+    border: none;
+}
